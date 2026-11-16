@@ -268,6 +268,11 @@
 			<Subsystem>Настройки</Subsystem>
 			<CommonPicture>ОбщаяКартинка1</CommonPicture>
 			<CommonPicture>ОбщаяКартинка2</CommonPicture>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Document>ПоступлениеТоваров</Document>
+			<Document>ПродажаТоваров</Document>
+			<Document>СписаниеТоваров</Document>
 			<Enum>ВидыНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
