@@ -16,7 +16,7 @@
 		<Metadata name="CommonPicture.ОбщаяКартинка2" id="aee80516-7749-4e7d-961e-7d83e7e3d5fc" configVersion="e48774096663164dbbcff375975fdf6200000000"/>
 		<Metadata name="CommonPicture.ОбщаяКартинка2.Picture" id="aee80516-7749-4e7d-961e-7d83e7e3d5fc.0" configVersion="88f9757a2bfaeb4980b35de1f378dac700000000"/>
 		<Metadata name="Configuration.Кофейня" id="752913a0-9a92-4155-a183-4b6544c792fe" configVersion="9fde32bcefba704abf68bd0b9689846100000000"/>
-		<Metadata name="Document.ПоступлениеТоваров" id="3ad25fa8-c050-49ff-8dd5-fe8ae99b657d" configVersion="ce568db054e9b6409a2ce9f404e267bd00000000">
+		<Metadata name="Document.ПоступлениеТоваров" id="3ad25fa8-c050-49ff-8dd5-fe8ae99b657d" configVersion="bfb8e9b02414a147ab1bc41e45f281ce00000000">
 			<Metadata name="Document.ПоступлениеТоваров.Attribute.Комментарий" id="3d0ddcd1-2c1a-43eb-b64e-58de8739457f"/>
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Цена" id="4b80c11f-f045-4796-a257-afd075c49fd6"/>
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Количество" id="54a7febf-f45d-45b6-aac9-1931946585c9"/>
@@ -25,7 +25,8 @@
 			<Metadata name="Document.ПоступлениеТоваров.Attribute.Контрагент" id="84da139b-5337-41fd-9d68-249c8ecb7e61"/>
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Сумма" id="bce53731-8b03-4f2b-ba64-bf56463d53ec"/>
 		</Metadata>
-		<Metadata name="Document.ПродажаТоваров" id="7582876e-357d-48d9-8d0d-ca25915b0641" configVersion="9435bdd42ebf1549a1f1f4cfe4e1c05800000000">
+		<Metadata name="Document.ПоступлениеТоваров.ObjectModule" id="3ad25fa8-c050-49ff-8dd5-fe8ae99b657d.0" configVersion="0709971f8437434ab3d110c1fb268c0000000000"/>
+		<Metadata name="Document.ПродажаТоваров" id="7582876e-357d-48d9-8d0d-ca25915b0641" configVersion="911177affd669b4996624ab9afc2c1f900000000">
 			<Metadata name="Document.ПродажаТоваров.TabularSection.Товары.Attribute.Сумма" id="4ecef70f-1756-4eb2-bc66-c1d7ba4b18f5"/>
 			<Metadata name="Document.ПродажаТоваров.TabularSection.Товары.Attribute.Номенклатура" id="514d4e54-3999-4405-b1f5-00cec0742632"/>
 			<Metadata name="Document.ПродажаТоваров.TabularSection.Товары.Attribute.Цена" id="6cbf5745-52a1-4518-b8b5-27102e6b7047"/>
@@ -36,6 +37,7 @@
 		</Metadata>
 		<Metadata name="Document.ПродажаТоваров.Form.ФормаДокумента" id="3fbee9da-0f5d-45e1-bd36-8235a39474de" configVersion="b679da5461d9b84fbbc9e5e2755872a000000000"/>
 		<Metadata name="Document.ПродажаТоваров.Form.ФормаДокумента.Form" id="3fbee9da-0f5d-45e1-bd36-8235a39474de.0" configVersion="128062d575fc5a4383091d260a1a62eb00000000"/>
+		<Metadata name="Document.ПродажаТоваров.ObjectModule" id="7582876e-357d-48d9-8d0d-ca25915b0641.0" configVersion="decd4ba2fa4f8443bd1f01c3dafdc57500000000"/>
 		<Metadata name="Document.СписаниеТоваров" id="33233563-a6ad-454d-a4c9-ae4f365a05df" configVersion="d996865ea320e04da59914c52492590300000000">
 			<Metadata name="Document.СписаниеТоваров.TabularSection.Товары.Attribute.Количество" id="063f0868-a73c-43f2-ae8e-3df7bce5726b"/>
 			<Metadata name="Document.СписаниеТоваров.TabularSection.Товары.Attribute.Товар" id="2c175748-24aa-4ff8-bd94-cb3ca318044d"/>
