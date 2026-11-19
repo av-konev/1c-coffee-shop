@@ -274,6 +274,7 @@
 			<Document>ПродажаТоваров</Document>
 			<Document>СписаниеТоваров</Document>
 			<Enum>ВидыНоменклатуры</Enum>
+			<Report>ОстаткиНаСкладе</Report>
 			<AccumulationRegister>ОстаткиНоменклатуры</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
